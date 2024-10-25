@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Álvaro Muñoz García</h1>
+	<h2>Hola muy buenas</h2>
 	<?php
 		date_default_timezone_set('Europe/Madrid');
 		echo date('H:i:s');
