@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Álvaro Muñoz García</h1>
-	<h2>Hola</h2>
+	<h2>Hola Me llamo Pikachu</h2>
 	<?php
 		date_default_timezone_set('Europe/Madrid');
 		echo date('H:i:s');
